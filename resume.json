@@ -1,0 +1,286 @@
+{
+  "basics": {
+    "name": "Olivier Jacquemart",
+    "label": "Full Stack Developer",
+    "picture": "",
+    "email": "o.jacquemart@gmail.com",
+    "phone": "06-30-87-56-60",
+    "website": "",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": "Nord, France"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "ojacquemart",
+        "url": "https://twitter.com/ojacquemart"
+      },
+      {
+        "network": "Github",
+        "username": "ojacquemart",
+        "url": "https://github.com/ojacquemart"
+      },
+      {
+        "network": "Linkedin",
+        "username": "ojacquemart",
+        "url": "https://fr.linkedin.com/in/olivierojacquemart"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Auchan - Villeneuve d'Ascq",
+      "position": "Full stack developer",
+      "website": "",
+      "startDate": "2014-12-01",
+      "endDate": "",
+      "summary": "Au sein du service Business Intelligence, dans une équipe de 10 développeurs, développement d'applications de restitution (chiffre d'affaires, stocks, fournisseurs…)",
+      "highlights": [
+        "Méthode agile: SCRUM",
+        "Mise en place d'une architecture microservices",
+        "Supervision de la production (metrics, logs...)",
+        "Technologies: Java 8, Spring boot, Spring cloud, Hazelcast, Elasticsearch, Postgres, Teradata, Git, Jenkins, Docker, Gatling, Asciidoctor, Angular, Material Design, Less, Sass, Gulp, webpack"
+      ]
+    },
+    {
+      "company": "Atos Worldine - Seclin",
+      "position": "Full stack developer",
+      "website": "",
+      "startDate": "2013-10-01",
+      "endDate": "2014-10-10",
+      "summary": "Au sein d'une équipe de 4 développeurs, développement d'un outil de Service Desk (gestion des incidents, problèmes, demandes…)",
+      "highlights": [
+        "Méthode agile: Kanban",
+        "Migration MySQL vers elasticsearch",
+        "Technologies: Dropwizard, Guice, Hazelcast, Elastic Search, MySQL, Jetty, Metrics, Grafana, Gatling HTML5, CSS3, AngularJS, Grunt, Bower, Maven GIT, Mercurial, Jenkins"
+      ]
+    },
+    {
+      "company": "Axa Web Center - Marcq-en-Baroeul",
+      "position": "Scala / Web developer",
+      "website": "",
+      "startDate": "2013-02-01",
+      "endDate": "2013-09-01",
+      "summary": "Participation au développement de la refonte du site axa.fr. ",
+      "highlights": [
+        "Méthode agile: SCRUM",
+        "Technologies: Play Framework Scala, API REST, Netty, RIAK, Jahia, Tomcat, Oracle, jQuery, HTML, CSS, TFS, Maven, Jenkins"
+      ]
+    },
+    {
+      "company": "Vauban Humanis - Lille",
+      "position": "Java JEE developer",
+      "website": "",
+      "startDate": "2010-07-01",
+      "endDate": "2013-01-01",
+      "summary": "Développement d'un nouveau catalogue produits pour les outils d'aide à la vente. et d'une plateforme d'interlocution",
+      "highlights": [
+        "Méthode agile: SCRUM",
+        "Technologies:  Java 6, JAVA EE, EJB 3.0, Scala, Web Services (JAX-WS), Hibernate, JPA, Struts, jUnit, Ant, Maven, Hudson, jBoss 5 AS, Glassfish 2.x, jQuery, Ajax, CSS, Oracle 11g"
+      ]
+    },
+    {
+      "company": "Nordnet - Wasquehal",
+      "position": "Java developer",
+      "website": "",
+      "startDate": "2010-04-01",
+      "endDate": "2010-06-01",
+      "summary": "Au sein de l’équipe internet, réalisations sur les applications de gestion de dépôts de noms de domaines pour les solutions professionnelles d’Orange et de Nordnet.",
+      "highlights": [
+        "Technologies: Java, jUnit, soapUI, WS Axis."
+      ]
+    },
+    {
+      "company": "Colorz - Fastlease - Paris 11ème",
+      "position": "Java developer",
+      "website": "",
+      "startDate": "2009-09-01",
+      "endDate": "2010-04-01",
+      "summary": "Refonte d’un outil de type back-office permettant la gestion des agences de la société, les commerciaux mais aussi les clients, la location des véhicules ainsi que l’édition des factures",
+      "highlights": [
+        "Technologies: Spring MVC, Maven, Hudson, CSS, jQuery, Ajax, CSS, MySQL."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "EPSI Arras",
+      "area": "Cycle Supérieur d’Ingénierie Informatique - Génie Logiciel",
+      "studyType": "Master 2",
+      "startDate": "2006",
+      "endDate": "2009"
+    },
+    {
+      "institution": "Lycée Dampierre",
+      "area": "Option Développeur d’Application",
+      "studyType": "BTS Informatique de Gestion",
+      "startDate": "2004",
+      "endDate": "2006"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Certificat Functional Progamming Principles for Scala",
+      "date": "2012",
+      "awarder": "Coursera"
+    },
+    {
+      "title": "M101J: MongoDB for Java Developers",
+      "date": "2013",
+      "awarder": "10gen"
+    },
+    {
+      "title": "Certificat Principles of Reactive Programming",
+      "date": "2014",
+      "awarder": "Coursera"
+    }
+  ],
+  "publications": [
+    {
+      "name": "VlilleChecker",
+      "publisher": "",
+      "releaseDate": "",
+      "website": "https://play.google.com/store/apps/details?id=com.vlille.checker&hl=fr",
+      "summary": "Application Android pour les habitués du Vélo Libre Service à Lille."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Backend",
+      "level": "",
+      "keywords": [
+        "Java",
+        "Kotlin",
+        "Scala",
+        "Spring framework",
+        "Spring boot",
+        "Spring cloud",
+        "Dropwizard",
+        "Play Framework",
+        "Hibernate",
+        "JPA",
+        "JDBI"
+      ]
+    },
+    {
+      "name": "Web",
+      "level": "",
+      "keywords": [
+        "Angular",
+        "Vue.js",
+        "Typescript",
+        "Ecmascript 2015",
+        "Ecmascript 5"
+      ]
+    },
+    {
+      "name": "Mobile",
+      "level": "",
+      "keywords": [
+        "Android",
+        "Progressive webapp",
+        "Ionic",
+        "Cordova"
+      ]
+    },
+    {
+      "name": "IDE",
+      "level": "",
+      "keywords": [
+        "Intellij IDEA",
+        "VS Code"
+      ]
+    },
+    {
+      "name": "Build",
+      "level": "",
+      "keywords": [
+        "Maven",
+        "Grade",
+        "Jenkins"
+      ]
+    },
+    {
+      "name": "Stress Tool",
+      "level": "",
+      "keywords": [
+        "Gatling",
+        "JMeter"
+      ]
+    },
+    {
+      "name": "Database",
+      "level": "",
+      "keywords": [
+        "MySQL",
+        "Postgres",
+        "Elasticsearch",
+        "MongoDB",
+        "Couchbase",
+        "RIAK",
+        "Teradata",
+        "Oracle"
+      ]
+    },
+    {
+      "name": "Server",
+      "level": "",
+      "keywords": [
+        "Tomcat",
+        "Jetty",
+        "Netty"
+      ]
+    },
+    {
+      "name": "Cache",
+      "level": "",
+      "keywords": [
+        "Hazelcast",
+        "Redis",
+        "Ehcache"
+      ]
+    },
+    {
+      "name": "Version control",
+      "level": "",
+      "keywords": [
+        "Git",
+        "Mercurial",
+        "TFS",
+        "SVN"
+      ]
+    },
+    {
+      "name": "Cloud",
+      "level": "",
+      "keywords": [
+        "Heroku",
+        "Clever Cloud",
+        "Cloud Foundry"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": ""
+    }
+  ],
+  "interests": [
+    {
+      "name": "Logiciels open source, Séries TV",
+      "keywords": [
+        "Clean code",
+        "Podcasts",
+        "Veille technologique"
+      ]
+    }
+  ],
+  "references": []
+}
