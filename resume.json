@@ -163,6 +163,7 @@
         "Spring cloud",
         "Dropwizard",
         "Play Framework",
+        "Node.js",
         "Hibernate",
         "JPA",
         "JDBI"
@@ -175,8 +176,8 @@
         "Angular",
         "Vue.js",
         "Typescript",
-        "Ecmascript 2015",
-        "Ecmascript 5"
+        "Javascript",
+        "Ecmascript 2015"
       ]
     },
     {
@@ -202,7 +203,7 @@
       "level": "",
       "keywords": [
         "Maven",
-        "Grade",
+        "Gradle",
         "Jenkins"
       ]
     },
@@ -219,7 +220,7 @@
       "level": "",
       "keywords": [
         "MySQL",
-        "Postgres",
+        "PostgreSQL",
         "Elasticsearch",
         "MongoDB",
         "Couchbase",
