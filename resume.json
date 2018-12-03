@@ -4,7 +4,7 @@
     "label": "Full Stack Developer",
     "picture": "",
     "email": "o.jacquemart@gmail.com",
-    "phone": "06-30-87-56-60",
+    "phone": "06-30-87-56-30",
     "website": "",
     "summary": "",
     "location": {
@@ -33,12 +33,26 @@
     ]
   },
   "work": [
+       {
+      "company": "Groupe Imprimerie Nationale - Douai",
+      "position": "Full stack developer",
+      "website": "",
+      "startDate": "2017-04-01",
+      "endDate": "",
+      "summary": "Dans le pôle Innovation d'une dizaine de personnes, développement d'applications autour de l'identité numérique",
+      "highlights": [
+        "Méthode agile: SCRUM",
+        "Amélioration déploiement continu",
+        "Mise en place tracking des utilisateurs mobiles",
+        "Technologies: Kotlin, Spring boot, Spring Cloud Config, Redis, Elasticsearch, Postgres, Git, Gitlab, Docker, Angular, React, Vue.js, Material Design, Node.js, Android"
+      ]
+    }, 
     {
       "company": "Auchan - Villeneuve d'Ascq",
       "position": "Full stack developer",
       "website": "",
-      "startDate": "2014-12-01",
-      "endDate": "",
+      "startDate": "2014-11-01",
+      "endDate": "2017-03-30",
       "summary": "Au sein du service Business Intelligence, dans une équipe de 10 développeurs, développement d'applications de restitution (chiffre d'affaires, stocks, fournisseurs…)",
       "highlights": [
         "Méthode agile: SCRUM",
@@ -174,6 +188,7 @@
       "level": "",
       "keywords": [
         "Angular",
+        "React",
         "Vue.js",
         "Typescript",
         "Javascript",
@@ -186,8 +201,7 @@
       "keywords": [
         "Android",
         "Progressive webapp",
-        "Ionic",
-        "Cordova"
+        "Ionic"
       ]
     },
     {
@@ -204,7 +218,8 @@
       "keywords": [
         "Maven",
         "Gradle",
-        "Jenkins"
+        "Jenkins",
+        "Gitlab"
       ]
     },
     {
